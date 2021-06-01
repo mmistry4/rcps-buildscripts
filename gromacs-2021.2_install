@@ -3,7 +3,7 @@
 ###############################################
 
 package_name="gromacs"
-package_version="2020.4"
+package_version="2021.2"
 package_description="GROMACS is a package for performing molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles."
 SRC_ARCHIVE=${SRC_ARCHIVE:-ftp://ftp.gromacs.org/pub/gromacs/gromacs-$package_version.tar.gz}
 
